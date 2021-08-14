@@ -1,0 +1,35 @@
+#menu ul {
+	margin: 0;
+	background-color: #8500a0;
+	list-style: none;
+}
+
+#menu ul li {
+	display: inline;
+
+}
+
+#menu ul li a {
+	padding: 10px 40px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+}
+
+#titulo {
+	position: absolute;
+    color: white;
+	font-size: 50px;
+	top: 190px;
+	left: 400px;
+	
+}
+
+#banner {
+	position: relative;
+}
+
+#homenagem{
+	background-color: violet;
+
+}
