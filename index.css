@@ -25,6 +25,15 @@
 	
 }
 
+#titulo2 {
+	position: absolute;
+    color: white;
+	font-size: 40px;
+	top: 190px;
+	left: 380px;
+	
+}
+
 #banner {
 	position: relative;
 }
